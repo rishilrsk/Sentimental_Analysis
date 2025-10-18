@@ -14,7 +14,7 @@ This flowchart illustrates the complete end-to-end process of the project, from 
 
 > **Note:** To add your flowchart image here, upload the diagram to your GitHub repository (e.g., in a folder named `img/`) and replace the path below.
 
-![Project Workflow](path/to/your/Sentiment_Analysis_Project_Flow.png)
+![Flow diagram](Flow.png)
 
 ## Table of Contents
 1.  [Introduction](#1-introduction)
@@ -68,7 +68,7 @@ The SVM model demonstrated the most notable success, achieving the highest accur
 
 > **Note:** To add your bar chart image here, upload it to your GitHub repository and replace the path below.
 
-![Model Performance](path/to/your/Model_Performance_Comparison.png)
+![Model comparison](Model%20Comparison.png)
 
 ### Comparative Metrics
 The table below provides a side-by-side comparison of all evaluation metrics for the three models.
