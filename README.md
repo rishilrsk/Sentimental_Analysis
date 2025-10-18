@@ -12,9 +12,7 @@ A project comparing Naive Bayes, Logistic Regression, and SVM for sentiment anal
 
 This flowchart illustrates the complete end-to-end process of the project, from data collection to final analysis.
 
-> **Note:** To add your flowchart image here, upload the diagram to your GitHub repository (e.g., in a folder named `img/`) and replace the path below.
-
-![Flow diagram](Flowchart.png)
+[Open Flow image](Flow.png)
 
 ## Table of Contents
 1.  [Introduction](#1-introduction)
@@ -66,9 +64,7 @@ Three different machine learning algorithms were implemented to compare their ef
 ### Model Performance Comparison
 The SVM model demonstrated the most notable success, achieving the highest accuracy and the most balanced performance across all classes.
 
-> **Note:** To add your bar chart image here, upload it to your GitHub repository and replace the path below.
-
-![Model comparison](Comparison.png)
+[Open Model comparison](Comparison.png)
 
 ### Comparative Metrics
 The table below provides a side-by-side comparison of all evaluation metrics for the three models.
