@@ -12,7 +12,7 @@ A project comparing Naive Bayes, Logistic Regression, and SVM for sentiment anal
 
 This flowchart illustrates the complete end-to-end process of the project, from data collection to final analysis.
 
-[Open Flow image](Flow.png)
+[Open Flow image](Flowchart.png)
 
 ## Table of Contents
 1.  [Introduction](#1-introduction)
