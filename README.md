@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-scikit--learn%20%7C%20pandas%20%7C%20Matplotlib-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A project comparing Naive Bayes, Logistic Regression, and SVM for sentiment analysis on the DailyDialog dataset. The SVM, aided by data augmentation, was identified as the optimal model.
 
@@ -64,7 +63,7 @@ Three different machine learning algorithms were implemented to compare their ef
 ### Model Performance Comparison
 The SVM model demonstrated the most notable success, achieving the highest accuracy and the most balanced performance across all classes.
 
-[Open Model comparison](Comparison.png)
+[Open Model comparison](Comparision.png)
 
 ### Comparative Metrics
 The table below provides a side-by-side comparison of all evaluation metrics for the three models.
