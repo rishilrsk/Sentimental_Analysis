@@ -5,6 +5,8 @@
 
 A project comparing Naive Bayes, Logistic Regression, and SVM for sentiment analysis on the DailyDialog dataset. The SVM, aided by data augmentation, was identified as the optimal model.
 
+**Live demo:** [sentimentalanalysis-rishi-lrsk.streamlit.app](https://sentimentalanalysis-rishi-lrsk.streamlit.app/). Type a sentence to see whether it reads as positive, negative or neutral, and which words decided it.
+
 ---
 
 ## Project Workflow
@@ -99,11 +101,23 @@ While the SVM performed well, it sometimes struggled with complex sentences cont
 * **Model Generalizability:** Validating the final model on larger and more diverse conversational datasets to ensure its reliability.
 
 ## 7. How to Run
-This project is contained within Jupyter Notebooks (`.ipynb` files).
+To try the model without installing anything, use the [live demo](https://sentimentalanalysis-rishi-lrsk.streamlit.app/).
+
+### Run the web app locally
+```sh
+git clone https://github.com/rishilrsk/Sentimental_Analysis.git
+cd Sentimental_Analysis
+pip install -r requirements.txt
+streamlit run app.py
+```
+See [DEPLOY.md](DEPLOY.md) for how the app is built and deployed.
+
+### Run the notebooks
+The model comparison is contained within Jupyter Notebooks (`.ipynb` files).
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YourUsername/Sentiment-Analysis-Project.git](https://github.com/YourUsername/Sentiment-Analysis-Project.git)
+    git clone https://github.com/rishilrsk/Sentimental_Analysis.git
     ```
 2.  **Install dependencies:**
     ```sh
